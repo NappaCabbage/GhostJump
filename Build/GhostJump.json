@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "GhostJump.data.unityweb",
+"asmCodeUrl": "GhostJump.asm.code.unityweb",
+"asmMemoryUrl": "GhostJump.asm.memory.unityweb",
+"asmFrameworkUrl": "GhostJump.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
